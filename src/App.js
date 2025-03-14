@@ -139,7 +139,7 @@ const App = () => {
       </div>
       <p className="summary">{transcript}</p>
       <br />
-      <h3>Created By SHIVUKUMARA@2024</h3>
+      <h3>Created By Hemanth Ramesh</h3>
     </div>
   );
 };
